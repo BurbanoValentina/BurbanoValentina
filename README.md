@@ -10,7 +10,7 @@
 <td width="65%" valign="middle">
 
 <h1>
-Hi, I'm Valentina Burbano
+Hi, I'm Valentina Burbano 🐈‍⬛
 </h1>
 
 <h3>
@@ -38,21 +38,7 @@ Full Stack Developer • Software Engineering Student • AI Enthusiast • Clou
 
 # About Me
 
-💚 Software Engineering Student at Universidad Cooperativa de Colombia
-
-💚 Full Stack Developer focused on scalable web applications
-
-💚 Cloud, DevOps and Software Architecture Enthusiast
-
-💚 Artificial Intelligence Explorer
-
-💚 Unity Developer
-
-💚 Chess Instructor
-
-💚 Based in Colombia
-
-💚 Passionate about learning new technologies and building impactful solutions
+I am a Software Engineering student at Universidad Cooperativa de Colombia with a strong passion for technology, software development, and continuous learning. I focus on building scalable full-stack applications while exploring Cloud Computing, DevOps, Software Architecture, Cybersecurity, and Artificial Intelligence. I enjoy creating impactful digital solutions, developing projects with modern technologies, experimenting with AI-powered tools, and expanding my skills through new challenges. Beyond software development, I am also interested in game development with Unity and have experience as a chess instructor, which has strengthened my analytical thinking and problem-solving abilities. 💚
 
 ---
 
@@ -88,57 +74,6 @@ Full Stack Developer • Software Engineering Student • AI Enthusiast • Clou
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,angular,nodejs,nestjs,java,spring,hibernate,maven,gradle,cs,dotnet,py,django,flask,fastapi,r,postgres,mysql,mongodb,sqlite,redis,cassandra,rabbitmq,kafka,docker,kubernetes,terraform,aws,azure,gcp,firebase,supabase,git,github,githubactions,gitlab,linux,ubuntu,windows,bash,powershell,vscode,visualstudio,eclipse,idea,androidstudio,anaconda,postman,figma,notion,prometheus,grafana,tensorflow,pytorch,sklearn,unity,blender,threejs,flutter,dart,vercel,heroku,netlify,nginx,vite,webpack,yarn,pnpm,npm,jest,junit,selenium,jquery,arduino,cloudflare,kali,linkedin,md,astro&perline=15"/>
 
 </p>
-
----
-
-# Specializations
-
-```yaml
-Frontend:
-  - React
-  - Next.js
-  - Angular
-  - TypeScript
-  - TailwindCSS
-
-Backend:
-  - Java
-  - Spring Boot
-  - Django
-  - Node.js
-  - FastAPI
-  - Python
-
-Databases:
-  - PostgreSQL
-  - MySQL
-  - MongoDB
-  - SQLite
-  - Redis
-
-Cloud:
-  - AWS
-  - Azure
-  - Google Cloud
-
-DevOps:
-  - Docker
-  - Kubernetes
-  - Terraform
-  - GitHub Actions
-  - Prometheus
-  - Grafana
-
-Artificial Intelligence:
-  - GPT Models
-  - Gemini
-  - Claude
-  - Vertex AI
-  - TensorFlow
-  - PyTorch
-  - RAG
-  - AI Agents
-```
 
 ---
 
