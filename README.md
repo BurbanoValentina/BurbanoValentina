@@ -13,11 +13,9 @@
 Hi, I'm Valentina Burbano 🐈‍⬛
 </h1>
 
-<h3>
-Full Stack Developer • Software Engineering Student • AI Enthusiast • Cloud & DevOps Explorer
-</h3>
+I am a Software Engineering student at Universidad Cooperativa de Colombia with a strong passion for technology, software development, and continuous learning. I focus on building scalable full-stack applications while exploring Cloud Computing, DevOps, Software Architecture, Cybersecurity, and Artificial Intelligence. I enjoy creating impactful digital solutions, developing projects with modern technologies, experimenting with AI-powered tools, and expanding my skills through new challenges. Beyond software development, I am also interested in game development with Unity and have experience as a chess instructor, which has strengthened my analytical thinking and problem-solving abilities. 💚 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=2DD4BF&vCenter=true&width=800&lines=Software+Engineering+Student;Full+Stack+Developer;Java%7C+SpringBoot%7C+Hibernate%7C+Junit%7C;+JavaScript%7C+React+%7C+Next.js+%7C+Angular%7C;Cloud+%26+DevOps+Enthusiast;Cybersecurity+Learner;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=2DD4BF&vCenter=true&width=800&lines=Software+Engineering+Student;Full+Stack+Developer;Java%7C+SpringBoot%7C+Hibernate%7C+Junit%7C;+JavaScript%7C+React+%7C+Next.js+%7C+Angular%7C;Cloud+%26+DevOps+Explorer;AI+Enthusiast;Cybersecurity+Learner;Always+Learning+New+Technologies"/>
 
 <br><br>
 
@@ -27,18 +25,12 @@ Full Stack Developer • Software Engineering Student • AI Enthusiast • Clou
 
 <td width="35%" align="center">
 
-<img src="https://i.pinimg.com/1200x/dc/c8/f2/dcc8f2444f4e6f986bc1e8a652c5bbfc.jpg" width="250"/>
+<img src="https://i.pinimg.com/1200x/dc/c8/f2/dcc8f2444f4e6f986bc1e8a652c5bbfc.jpg" width="450"/>
 
 </td>
 
 </tr>
 </table>
-
----
-
-# About Me
-
-I am a Software Engineering student at Universidad Cooperativa de Colombia with a strong passion for technology, software development, and continuous learning. I focus on building scalable full-stack applications while exploring Cloud Computing, DevOps, Software Architecture, Cybersecurity, and Artificial Intelligence. I enjoy creating impactful digital solutions, developing projects with modern technologies, experimenting with AI-powered tools, and expanding my skills through new challenges. Beyond software development, I am also interested in game development with Unity and have experience as a chess instructor, which has strengthened my analytical thinking and problem-solving abilities. 💚
 
 ---
 
