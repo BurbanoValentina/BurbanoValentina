@@ -77,18 +77,6 @@ I am a Software Engineering student at Universidad Cooperativa de Colombia with 
 
 ---
 
-# GitHub Overview
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BurbanoValentina&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurbanoValentina&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # GitHub Profile Summary
 
 <p align="center">
@@ -106,53 +94,6 @@ I am a Software Engineering student at Universidad Cooperativa de Colombia with 
 <img src="https://streak-stats.demolab.com?user=BurbanoValentina&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BurbanoValentina&theme=tokyo-night"/>
-
-</p>
-
----
-
-# Featured Projects
-
-### Personal Portfolio
-
-- React 19
-- TypeScript
-- Tailwind CSS v4
-- Vite
-- SQLite
-- Node.js
-
-🔗 https://personal-portafolio-dnnr.vercel.app/
-
-### BankGuard
-
-- FastAPI
-- React
-- TypeScript
-- Docker
-- SQLAlchemy
-
-### Predictive Maintenance IoT Platform
-
-- Apache Kafka
-- RabbitMQ
-- Docker
-- Real-Time Monitoring
-
-### Security Banking Tool
-
-- Python
-- TypeScript
-- Security Analysis
-- Dashboard Reporting
 
 ---
 
