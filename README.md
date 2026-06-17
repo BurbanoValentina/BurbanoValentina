@@ -1,83 +1,58 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:07111C,100:2DD4BF&text=Valentina%20Burbano&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 
 </div>
 
-<h1 align="center">
-Hi, I'm Valentina Burbano
-</h1>
-
-<h3 align="center">
-Full Stack Developer • Software Engineering Student • AI Enthusiast • Cloud & DevOps Explorer
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Full+Stack+Developer;Java+Spring+Boot+Developer;React+%7C+Next.js+%7C+Angular;Cloud+%26+DevOps+Enthusiast;Artificial+Intelligence+Explorer;Unity+Developer;Cybersecurity+Learner;Always+Learning+New+Technologies"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=BurbanoValentina&label=Profile%20Views&color=2DD4BF&style=for-the-badge"/>
-
-</p>
-
----
-
 <table>
 <tr>
 
-<td width="60%">
+<td width="65%" valign="middle">
 
-# About Me
+<h1>
+Hi, I'm Valentina Burbano
+</h1>
 
-Software Engineering Student at Universidad Cooperativa de Colombia
+<h3>
+Full Stack Developer • Software Engineering Student • AI Enthusiast • Cloud & DevOps Explorer
+</h3>
 
-Full Stack Developer focused on scalable web applications
-
-Cloud, DevOps and Software Architecture Enthusiast
-
-Artificial Intelligence Explorer
-
-Unity Developer
-
-Chess Instructor
-
-Based in Colombia
-
-Passionate about learning new technologies and building impactful solutions
-
-## Current Focus (2026)
-
-- Artificial Intelligence
-- AI Agents
-- Prompt Engineering
-- Software Architecture
-- Cloud Computing
-- DevOps
-- Cybersecurity
-- Full Stack Development
-- Java Spring Boot
-- React Ecosystem
-- Google Cloud
-
-</td>
-
-<td width="40%" align="center">
-
-<img width="250" src="https://i.pinimg.com/1200x/dc/c8/f2/dcc8f2444f4e6f986bc1e8a652c5bbfc.jpg"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=2DD4BF&vCenter=true&width=800&lines=Software+Engineering+Student;Full+Stack+Developer;Java%7C+SpringBoot%7C+Hibernate%7C+Junit%7C;+JavaScript%7C+React+%7C+Next.js+%7C+Angular%7C;Cloud+%26+DevOps+Enthusiast;Cybersecurity+Learner;Always+Learning+New+Technologies"/>
 
 <br><br>
 
-<img width="250" src="https://i.pinimg.com/originals/65/dd/52/65dd520308ada285f00f8cb0466c9db4.gif"/>
+<img src="https://komarev.com/ghpvc/?username=BurbanoValentina&label=Profile%20Views&color=2DD4BF&style=for-the-badge"/>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://i.pinimg.com/1200x/dc/c8/f2/dcc8f2444f4e6f986bc1e8a652c5bbfc.jpg" width="250"/>
 
 </td>
 
 </tr>
 </table>
+
+---
+
+# About Me
+
+💚 Software Engineering Student at Universidad Cooperativa de Colombia
+
+💚 Full Stack Developer focused on scalable web applications
+
+💚 Cloud, DevOps and Software Architecture Enthusiast
+
+💚 Artificial Intelligence Explorer
+
+💚 Unity Developer
+
+💚 Chess Instructor
+
+💚 Based in Colombia
+
+💚 Passionate about learning new technologies and building impactful solutions
 
 ---
 
@@ -106,18 +81,6 @@ Passionate about learning new technologies and building impactful solutions
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-| Snake Eating Contributions |
-|---------------------------|
-| ![snake](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
-
-</div>
-
----
-
 # Tech Stack
 
 <p align="center">
@@ -136,18 +99,14 @@ Frontend:
   - Next.js
   - Angular
   - TypeScript
-  - JavaScript
   - TailwindCSS
-  - Bootstrap
 
 Backend:
   - Java
   - Spring Boot
-  - Hibernate
   - Django
   - Node.js
   - FastAPI
-  - C#
   - Python
 
 Databases:
@@ -169,7 +128,6 @@ DevOps:
   - GitHub Actions
   - Prometheus
   - Grafana
-  - Nginx
 
 Artificial Intelligence:
   - GPT Models
@@ -178,77 +136,138 @@ Artificial Intelligence:
   - Vertex AI
   - TensorFlow
   - PyTorch
-  - Scikit-Learn
   - RAG
   - AI Agents
-````
+```
+
+---
+
+# GitHub Overview
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BurbanoValentina&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurbanoValentina&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Profile Summary
+
+<p align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurbanoValentina&theme=github_dark"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=BurbanoValentina&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BurbanoValentina&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 # Featured Projects
 
-## Personal Portfolio
+### Personal Portfolio
 
-Modern portfolio built with:
+- React 19
+- TypeScript
+- Tailwind CSS v4
+- Vite
+- SQLite
+- Node.js
 
-* React 19
-* TypeScript
-* Tailwind CSS v4
-* Vite
-* SQLite
-* Node.js
-* Responsive Design
-* Dark / Light Theme
-* Internationalization (ES / EN)
+🔗 https://personal-portafolio-dnnr.vercel.app/
 
-🔗 https://personal-portafolio-dnnr.vercel.app
+### BankGuard
 
----
+- FastAPI
+- React
+- TypeScript
+- Docker
+- SQLAlchemy
 
-## EPS_APP
+### Predictive Maintenance IoT Platform
 
-Healthcare information system.
+- Apache Kafka
+- RabbitMQ
+- Docker
+- Real-Time Monitoring
 
-Tech:
+### Security Banking Tool
 
-* Python
-* SQLite
-* Web Development
-
----
-
-## Herramienta Seguridad Bancaria
-
-Cybersecurity-focused application.
-
-Tech:
-
-* TypeScript
-* Security Analysis
-* Reporting Dashboard
+- Python
+- TypeScript
+- Security Analysis
+- Dashboard Reporting
 
 ---
 
-## Landing Herramientas de Seguridad
+# Current Focus
 
-Landing page focused on cybersecurity awareness.
+<div align="center">
 
-Tech:
+<table>
+<tr>
 
-* HTML
-* CSS
-* TypeScript
+<td width="50%">
+
+<ul>
+<li>Artificial Intelligence</li>
+<li>AI Agents</li>
+<li>RAG Architectures</li>
+<li>Cloud Computing</li>
+<li>Kubernetes</li>
+<li>DevOps</li>
+<li>Cybersecurity</li>
+<li>Software Architecture</li>
+<li>React & TypeScript</li>
+<li>Spring Boot</li>
+<li>Google Cloud</li>
+</ul>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://i.pinimg.com/originals/65/dd/52/65dd520308ada285f00f8cb0466c9db4.gif" width="400"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## PetShop
+# Contribution Snake
 
-Web application project.
+<div align="center">
 
-Tech:
+| Snake Eating Contributions |
+|---------------------------|
+| ![snake](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
 
-* TypeScript
-* Frontend Development
+</div>
 
 ---
 
@@ -278,9 +297,8 @@ Tech:
 
 <div align="center">
 
-Building technology that creates impact.
+### 💚 Building technology that creates impact.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111C,100:2DD4BF"/>
 
 </div>
-```
