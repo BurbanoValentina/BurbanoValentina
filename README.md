@@ -69,16 +69,6 @@ I am a Software Engineering student at Universidad Cooperativa de Colombia with 
 
 ---
 
-# GitHub Profile Summary
-
-<p align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BurbanoValentina&theme=github_dark"/>
-
-</p>
-
----
-
 # GitHub Streak
 
 <p align="center">
